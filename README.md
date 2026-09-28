@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center"><strong>ERIK PEDRO / SOFTWARE DEVELOPMENT</strong></p>
 
-<!--
-**erikpedro/erikpedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Código que transforma ideias em projetos.</h1>
 
-Here are some ideas to get you started:
+<p align="center">Projetos com Java, Angular e Flutter.<br>Aplicações, automação e soluções para o dia a dia.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projeto em destaque
+
+<a href="https://github.com/erikpedro/kitt_car_assistant"><img src="https://raw.githubusercontent.com/erikpedro/kitt_car_assistant/master/docs/assets/kitt-banner.svg" alt="KITT — Assistente automotivo em desenvolvimento" width="100%"></a>
+
+**[KITT · Assistente automotivo](https://github.com/erikpedro/kitt_car_assistant)**
+
+Um projeto pessoal em Flutter para organizar o cuidado com o carro. A base atual reúne modelos de veículos e peças, persistência SQLite e regras de manutenção por quilometragem e tempo.
+
+`Flutter` · `Dart` · `SQLite` · `Em desenvolvimento`
+
+**Próximas etapas:** telas completas, notificações, OCR de notas fiscais e interação por voz.
+
+[Explorar o projeto →](https://github.com/erikpedro/kitt_car_assistant) · [Decisões técnicas →](https://github.com/erikpedro/kitt_car_assistant/tree/master/docs/decisions)
