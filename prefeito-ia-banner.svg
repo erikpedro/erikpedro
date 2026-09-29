@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="t d">
+<title id="t">Prefeito IA — Cities: Skylines</title><desc id="d">Identidade gráfica do projeto de Erik Pedro: uma cidade desenhada em linhas verdes e azuis sobre fundo escuro. Ilustração, não captura do jogo.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07151d"/><stop offset="1" stop-color="#10283a"/></linearGradient><linearGradient id="line"><stop stop-color="#55e7b0"/><stop offset="1" stop-color="#63b8ff"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#74bcce" stroke-opacity=".075"/></pattern></defs>
+<rect width="1280" height="440" rx="24" fill="url(#bg)"/><rect width="1280" height="440" rx="24" fill="url(#grid)"/>
+<rect x="58" y="55" width="6" height="22" rx="3" fill="#55e7b0"/><text x="80" y="72" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#9fc9d6">ERIK PEDRO / PROJETO ATUAL</text>
+<text x="57" y="188" font-family="Arial,sans-serif" font-weight="700" font-size="76" fill="#edf9ff">PREFEITO <tspan fill="#55e7b0">IA</tspan></text>
+<text x="62" y="239" font-family="Arial,sans-serif" font-size="28" fill="#c6e3ed">Cities: Skylines como laboratório de IA.</text>
+<text x="62" y="280" font-family="Arial,sans-serif" font-size="19" fill="#8eafbf">Observar. Planejar. Validar. Evoluir a cidade.</text>
+<text x="62" y="377" font-family="monospace" font-size="16" letter-spacing="2" fill="#9ac8d6">PYTHON / C# / LLM LOCAL</text>
+<g stroke="url(#line)" stroke-width="2" fill="#102b3a">
+<path d="M804 314V218h58v96m-44-96v-26h30v26M880 314V150h64v164m-50-164v-22h36v22M961 314V204h54v110m20 0V109h67v205m-54-205V85h41v24M1123 314V171h67v143"/>
+<path d="M791 315h417M811 338h378M855 361h292" fill="none"/>
+</g>
+<g fill="#55e7b0" opacity=".65"><path d="M818 234h9v12h-9zm20 0h9v12h-9zm-20 26h9v12h-9zm20 0h9v12h-9zm57-92h12v15h-12zm23 0h12v15h-12zm-23 30h12v15h-12zm23 0h12v15h-12zm-23 30h12v15h-12zm23 0h12v15h-12z"/><path d="M1049 127h12v15h-12zm25 0h12v15h-12zm-25 29h12v15h-12zm25 0h12v15h-12zm-25 29h12v15h-12zm25 0h12v15h-12zm-25 29h12v15h-12zm25 0h12v15h-12zm-25 29h12v15h-12zm25 0h12v15h-12z"/></g>
+<circle cx="984" cy="372" r="4" fill="#55e7b0"/><text x="1000" y="377" font-family="monospace" font-size="12" fill="#90c1cc">EM DESENVOLVIMENTO</text>
+</svg>

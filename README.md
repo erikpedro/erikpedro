@@ -2,20 +2,26 @@
 
 <h1 align="center">Código que transforma ideias em projetos.</h1>
 
-<p align="center">Projetos com Java, Angular e Flutter.<br>Aplicações, automação e soluções para o dia a dia.</p>
+<p align="center">Desenvolvimento de software, automação e inteligência artificial aplicada.<br>Atualmente construindo o Prefeito IA para Cities: Skylines.</p>
 
 ---
 
-### Projeto em destaque
+### Projeto principal · Em desenvolvimento
 
-<a href="https://github.com/erikpedro/kitt_car_assistant"><img src="https://raw.githubusercontent.com/erikpedro/kitt_car_assistant/master/docs/assets/kitt-banner.svg" alt="KITT — Assistente automotivo em desenvolvimento" width="100%"></a>
+<a href="https://github.com/erikpedro/CitiesSkylines-PrefeitoIA"><img src="prefeito-ia-banner.svg" alt="Prefeito IA — Cities: Skylines como laboratório de inteligência artificial" width="100%"></a>
 
-**[KITT · Assistente automotivo](https://github.com/erikpedro/kitt_car_assistant)**
+**[CitiesSkylines-PrefeitoIA](https://github.com/erikpedro/CitiesSkylines-PrefeitoIA)**
 
-Um projeto pessoal em Flutter para organizar o cuidado com o carro. A base atual reúne modelos de veículos e peças, persistência SQLite e regras de manutenção por quilometragem e tempo.
+Um prefeito experimental com **LLM local**, agente em **Python** e mod em **C#** para estudar decisões e planejamento urbano no Cities: Skylines 1.
 
-`Flutter` · `Dart` · `SQLite` · `Em desenvolvimento`
+| Observar | Planejar | Executar com controle |
+| :--- | :--- | :--- |
+| Consultar o estado da cidade e investigar problemas. | Analisar informações com o prefeito e perfis de secretários. | Validar operações permitidas, criar checkpoints e verificar resultados. |
 
-**Próximas etapas:** telas completas, notificações, OCR de notas fiscais e interação por voz.
+`Python` · `C#` · `LLM local` · `Cities: Skylines 1`
 
-[Explorar o projeto →](https://github.com/erikpedro/kitt_car_assistant) · [Decisões técnicas →](https://github.com/erikpedro/kitt_car_assistant/tree/master/docs/decisions)
+O projeto evolui por etapas: diagnóstico, planejamento inspirado em Brasília e construção de trechos de vias com validação. A construção usa um planejador determinístico; o ciclo geral da LLM permanece limitado a inspeções e espera.
+
+[Explorar o projeto →](https://github.com/erikpedro/CitiesSkylines-PrefeitoIA) · [Documentação →](https://github.com/erikpedro/CitiesSkylines-PrefeitoIA#readme)
+
+<sub>Construído a partir do projeto MIT <a href="https://github.com/Sunwood-ai-labs/cities-skylines1-agent-skill">cities-skylines1-agent-skill</a>, da Sunwood AI Labs, com agente Python e controles próprios. Projeto independente, sem vínculo com os criadores do jogo.</sub>
